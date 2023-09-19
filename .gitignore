@@ -1,0 +1,39 @@
+# Arquivos de compilação gerados pelo compilador Java
+*.class
+
+# Diretório de saída de compilação
+/target/
+/bin/
+/out/
+
+# Arquivos de configuração do IntelliJ IDEA
+.idea/
+
+# Arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos específicos do ambiente de desenvolvimento
+.vscode/
+
+# Arquivos de log
+*.log
+
+# Diretórios temporários
+/tmp/
+
+# Diretório de dependências gerado pelo Maven
+/.m2/
+
+# Diretório de dependências gerado pelo Gradle
+/.gradle/
+
+# Arquivos de configuração do Maven
+pom.xml
+pom.xml.releaseBackup
+
+# Arquivos de configuração do Gradle
+build/
+.gradle/
+
